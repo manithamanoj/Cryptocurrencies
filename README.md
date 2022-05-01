@@ -44,6 +44,6 @@ We create scatter plots with Plotly Express and hvplot, we visualize the distinc
 
 ## Summary
 
-From the visualization it is clear that the BitTorrent has good amount of coin supply and higher in total coins mined. Turtle Coin has a good amount of supply but total coins mined is less.
+From the visualization it is clear that the BitTorrent has good amount of coin supply and higher number of total coins mined. Turtle Coin has a good amount of supply but total coins mined is less.
 
 
